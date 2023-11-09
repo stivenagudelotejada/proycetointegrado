@@ -1,0 +1,367 @@
+
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image:  url(fondo.jpg\ \(3\).jpg);
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    
+    
+    .img{
+    
+    position: relative;
+    
+     top: 531px;
+    
+    width: 371px;
+    
+    height: 207px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url(""); 
+    }
+    
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagenbiologia{
+
+ 
+
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 750px;
+            
+            width: 500px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("biologia\ cromo.jpg ");
+
+
+            
+            }
+            
+            
+
+
+    
+        
+        
+        
+        .textobiologia{
+        
+        text-align: justify;
+        
+        color: rgb(212, 219, 219);
+        
+        font-size: 20px;
+        
+        
+        
+        }
+    
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 500px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagensociales{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 700px;
+            
+            width: 800px;
+            
+            margin-left: 715px;
+            
+            margin-right:5px;
+            
+            background-image: url("mapas\ de\ socialeds.png");
+            
+            }
+            
+            
+            
+            .textosociales{
+            
+            text-align: justify;
+            
+            color: rgb(244, 248, 248);
+            
+            font-size: 20px;
+         }
+         .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 555;
+            
+        
+             
+            
+            }
+            
+             
+            
+
+                
+                 .contenido{
+
+                height: 280px;
+        
+                
+                }
+                
+                 
+                
+                .imageningles{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 3000px;
+                
+                margin-left: 700px;
+                
+                margin-right:5px;
+                
+                background-image: url("ingles.jpg.jpg");
+                
+                }
+                
+                
+                
+                .textoingles{
+                
+                text-align: justify;
+                
+                color: rgb(239, 241, 241);
+                
+                font-size: 20px;
+                
+                
+                
+                }
+                
+
+
+                .contenido{
+
+                    height: 280px;
+                    
+                    width: 100%;
+                    
+                    position: absolute;
+                    
+                    top: 410px;
+                    
+                     
+                    
+                    }
+                    
+                     
+                    
+                    .imagenmate{
+                    
+                     
+                    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 200px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("algebraocas.jpeg");
+                    
+                    }
+                    
+  
+                        
+                                                
+                    .textomate{
+
+                        text-align: justify;
+                        
+                        color: rgb(234, 243, 243);
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
+                        .contenidomate{
+
+                            height: 280px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 555px;
+                            
+                             
+                            
+                            }
+                            
+                             
+                            
+                            .imagentecno{
+
+ 
+
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 200px;
+                                
+                                width: 260px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                top: 1800px;
+
+                                background-image: url("tecnologia.jpg");
+                    
+
+                                
+                                }
+                                
+                                
+                            
+                            
+                            
+                            .textotecno{
+                            
+                            text-align: justify;
+                            
+                            color: azure;
+                            
+                            font-size: 20px;
+                            
+                            
+                            
+                            }
+                            
+
+                            .contenido{
+
+                                height: 280px;
+                                
+                                width: 100%;
+                                
+                                position: absolute;
+                                
+                                top: 500px;
+                                
+                                 
+                                
+                                }
+                                
+                                 
+                                
+                                .imagensociales{
+                                
+                                 
+                                
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 700px;
+                                
+                                width: 800px;
+                                
+                                margin-left: 715px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url(infografiasoci.jpg);
+                                
+                                }
+                                
+                                
+                                
+                                .textosociales{
+                                
+                                text-align: justify;
+                                
+                                color: rgb(244, 248, 248);
+                                
+                                font-size: 20px;
+                             }
+
+
+            
+                             
