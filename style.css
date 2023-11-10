@@ -1,7 +1,7 @@
 
 .materia {
     text-align: center;
-    background-color: #f0f0f0;
+    background-color:#ada1a1;
     padding: 10px;
     margin: 10px;
 }
@@ -21,7 +21,7 @@
 }
 
 h1 {
-    text-align: center;
+    color: #f0f0f0;
 }
 
 .rule {
@@ -36,14 +36,20 @@ img {
     height: auto;
 }
 .text {
-    background-color: #f0f0f0;
+    background-color: #777777;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+.text-rules {
+    background-color: #fc7d23;
     padding: 20px;
     margin: 20px;
     border: 1px solid #ccc;
 }
 body {
     display: flex;
-    background-color:rgb(255, 87, 51);
+    background-image:url(src/fondo.jpg);
 }
 
 .sidebar {
@@ -65,7 +71,7 @@ body {
 .materias a {
     color: #fff;
     text-decoration: none;
-    display: block;
+    display: flex;
 }
 
 .materias a:hover {
